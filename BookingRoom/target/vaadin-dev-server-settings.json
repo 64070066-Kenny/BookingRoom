@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/SOP/lab_8/BookingRoom/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/SOP/lab_8/BookingRoom/./frontend/generated/jar-resources",
+  "staticOutput": "D:/SOP/lab_8/BookingRoom/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\SOP\\lab_8\\BookingRoom\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\SOP\\lab_8\\BookingRoom\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/SOP/lab_8/BookingRoom/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/SOP/lab_8/BookingRoom/src/main/dev-bundle/config",
+  "jarResourcesFolder": "D:/SOP/lab_8/BookingRoom/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\SOP\\lab_8\\BookingRoom\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
